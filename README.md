@@ -3,4 +3,4 @@
 Instalar composer
 
 correr en terminal:
-composer install
+<code>composer install</code>
