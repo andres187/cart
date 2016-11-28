@@ -1,6 +1,6 @@
 # Bienvenidos
 
-Intalar composer
+Instalar composer
 
 correr en terminal:
 composer install
